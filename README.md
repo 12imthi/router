@@ -1,9 +1,2 @@
-# React + Vite
+I Created Router Task<img width="960" alt="Screenshot 2024-02-05 210033" src="https://github.com/12imthi/router/assets/110447839/e31cdd25-dc58-457d-976c-0da80019a4c4">
 
-This template provides a minimal setup to get React workin![Uploading Screenshot 2024-02-05 210033.png…]()
-g in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
